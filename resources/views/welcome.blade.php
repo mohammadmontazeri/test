@@ -10,6 +10,7 @@
     </head>
     <body>
     <style>
+        
         .content{
             text-align: center;
             margin-top: 20%;
