@@ -6,6 +6,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <meta content="{{csrf_token()}}" name="testGit">
 </head>
+
 <body>
             <div class="content">
                 <div class="title m-b-md" style="text-align: center;margin-top: 5%;color: #4e555b">
