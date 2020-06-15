@@ -26,6 +26,9 @@ Route::get('/addComment', function (){
 
 Route::post('/insertComment','CommentController@add');
 
+Route::get('gitTest',function(){
+    return "Montazeri";
+});
 /*
 Route::get('/test',function (){
     $comment = App\Post::find(1)->comments()->first();
