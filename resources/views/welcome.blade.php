@@ -15,6 +15,9 @@
             text-align: center;
             margin-top: 20%;
         }
+        .nav{
+            color: red ;
+        }
 
         .content .title{
              margin: auto;
