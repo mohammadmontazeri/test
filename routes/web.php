@@ -34,3 +34,4 @@ Route::get('/test',function (){
     $comment = App\Post::find(1)->comments()->first();
     return $comment;
 });*/
+Route::get();
