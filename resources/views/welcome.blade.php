@@ -15,7 +15,15 @@
             text-align: center;
             margin-top: 20%;
         }
+<<<<<<< HEAD
         
+=======
+        .nav{
+            color: red ;
+            margin: auto ;
+        }
+
+>>>>>>> b1
         .content .title{
              margin: auto;
              border-bottom: solid .75px #aaa;
