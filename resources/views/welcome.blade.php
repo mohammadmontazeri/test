@@ -15,7 +15,9 @@
             text-align: center;
             margin-top: 20%;
         }
-
+        .b2{
+            
+        }
         .content .title{
              margin: auto;
              border-bottom: solid .75px #aaa;
