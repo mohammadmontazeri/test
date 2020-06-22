@@ -17,6 +17,7 @@
         }
         .nav{
             color: red ;
+            margin: auto ;
         }
 
         .content .title{
