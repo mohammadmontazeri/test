@@ -21,7 +21,7 @@
             margin: auto ;
         }
         .b2{
-            
+            border: #555 ;
         }
         .content .title{
              margin: auto;
