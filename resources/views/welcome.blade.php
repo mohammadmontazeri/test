@@ -16,6 +16,16 @@
             margin-top: 20%;
         }
 
+<<<<<<< HEAD
+=======
+        .nav{
+            color: red ;
+            margin: auto ;
+        }
+        .b2{
+            border: #555 ;
+        }
+>>>>>>> b2
         .content .title{
              margin: auto;
              border-bottom: solid .75px #aaa;
