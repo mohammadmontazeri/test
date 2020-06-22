@@ -15,6 +15,11 @@
             text-align: center;
             margin-top: 20%;
         }
+
+        .nav{
+            color: red ;
+            margin: auto ;
+        }
         .b2{
             
         }
