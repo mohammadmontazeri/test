@@ -16,6 +16,7 @@
             margin-top: 20%;
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
         
 =======
         .nav{
@@ -24,6 +25,11 @@
         }
 
 >>>>>>> b1
+=======
+        .b2{
+            
+        }
+>>>>>>> b2
         .content .title{
              margin: auto;
              border-bottom: solid .75px #aaa;
